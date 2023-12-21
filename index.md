@@ -8,14 +8,15 @@ Yiming Sun (孙一铭) received his B.S. degree from Hefei University of Technol
 
 ## Research Interests
 
-- **multimodal learning:** multimodal image fusion, multimodal object detection
+- **multimodal image fusion**
+- **multimodal object detection**
 
 ## News
 
 - **[Jul. 2023]** Our paper about dynamic multimodal image fusion is accepted to ICCV 2023. **[ CCF-A ]**
-- **[Aug. 2022]** Our paper about intelligent retail container is accepted to IEEE T-IM. **[ JCR Q1, SCI-2 ]**
+- **[Aug. 2022]** Our paper about intelligent retail container is accepted to IEEE T-IM. **[ JCR Q1 ]**
 - **[Jun. 2022]** Our paper about detection-driven multimodal image fusion is accepted to ACM Multimedia 2022. **[ CCF-A ]**
-- **[Apr. 2022]** Our paper about multimodal object detection is accepted to IEEE T-CSVT. **[ JCR Q1, SCI-1, CCF-B ]**
+- **[Apr. 2022]** Our paper about multimodal object detection is accepted to IEEE T-CSVT. **[ JCR Q1 ]**
 
 {% include_relative _includes/publications.md %}
 
