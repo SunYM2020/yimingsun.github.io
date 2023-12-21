@@ -1,5 +1,16 @@
 main:
 
+  - title: "DetFusion: A Detection-driven Infrared and Visible Image Fusion Network"
+    authors: <strong>Yiming Sun</strong>, Bing Cao, Pengfei Zhu, Qinghua Hu
+    conference_short: ACM MM
+    conference: The 30th ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2022.
+    pdf: https://dl.acm.org/doi/10.1145/3503161.3547902
+    code: https://github.com/SunYM2020/DetFusion
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/teaser_example.png
+  
   - title: Multi-modal Gated Mixture of Local-to-Global Experts for Dynamic Image Fusion
     authors: Bing Cao*, <strong>Yiming Sun*</strong>, Pengfei Zhu, Qinghua Hu (*Co-First authors)
     conference_short: ICCV
@@ -7,16 +18,38 @@ main:
     pdf: https://openaccess.thecvf.com/content/ICCV2023/html/Cao_Multi-Modal_Gated_Mixture_of_Local-to-Global_Experts_for_Dynamic_Image_Fusion_ICCV_2023_paper.html
     code: https://github.com/SunYM2020/MoE-Fusion
     bibtex: 
-    image: 
+    image: ./assets/img/teaser_example.png
     notes: 
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning"
+    authors: <strong>Yiming Sun</strong>, Bing Cao, Pengfei Zhu, Qinghua Hu
+    conference_short: IEEE-Trans
+    conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(IEEE T-CSVT)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/document/9759286
+    code: https://github.com/SunYM2020/UA-CMDet
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/teaser_example.png
+
+  - title: "Self-supervised Fully Automatic Learning Machine for Intelligent Retail Container"
+    authors: Pengfei Zhu, <strong>Yiming Sun</strong>, Bing Cao, Xiaoyu Liu, Xin Liu, Qinghua Hu
+    conference_short: IEEE-Trans
+    conference: IEEE Transactions on Instrumentation & Measurement <strong>(IEEE T-IM)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/document/9887950
+    code: https://github.com/SunYM2020/IRC
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/teaser_example.png
+
+  - title: "Multi-Drone-Based Single Object Tracking With Agent Sharing Network"
+    authors: Pengfei Zhu, Jiayu Zheng, Dawei Du, Longyin Wen, <strong>Yiming Sun</strong>, Qinghua Hu
+    conference_short: IEEE-Trans
+    conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(IEEE T-CSVT)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/document/9298794
+    code: https://github.com/VisDrone/MultiDrone
+    page: 
+    bibtex: 
     notes: 
     image: ./assets/img/teaser_example.png
