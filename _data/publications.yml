@@ -12,7 +12,7 @@ main:
     image: ./assets/img/teaser_example.png
   
   - title: Multi-modal Gated Mixture of Local-to-Global Experts for Dynamic Image Fusion
-    authors: Bing Cao*, <strong>Yiming Sun*</strong>, Pengfei Zhu, Qinghua Hu (*Co-First authors)
+    authors: Bing Cao*, <strong>Yiming Sun*</strong>, Pengfei Zhu, Qinghua Hu (<strong>*Co-First authors<strong>)
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://openaccess.thecvf.com/content/ICCV2023/html/Cao_Multi-Modal_Gated_Mixture_of_Local-to-Global_Experts_for_Dynamic_Image_Fusion_ICCV_2023_paper.html
