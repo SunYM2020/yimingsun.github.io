@@ -22,3 +22,5 @@ Yiming Sun (孙一铭) received his B.S. degree from Hefei University of Technol
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/Honors.md %}
