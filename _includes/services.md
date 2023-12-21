@@ -13,11 +13,3 @@
   <li><a href="https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing"><autocolor>ISPRS Journal of Photogrammetry and Remote Sensing</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859"><autocolor>IEEE Geoscience and Remote Sensing Letters</autocolor></a></li>
 </ul>
-
-### Honors
-- 2023 National Scholarship
-- 2023 Tianjin University Merit Student 
-- 2022 Tianjin University Merit Student 
-- 2021 Tianjin University Merit Student 
-- 2022 The First Prize Scholarship
-- 2020 The First Prize Scholarship
