@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Yiming Sun (孙一铭) received his B.S. degree from Hefei University of Technology, Hefei, China, in 2017, and received his M.S. degree from Tianjin University, Tianjin, China, in 2020. He is currently working towards the Ph.D. degree in the College of Intelligence and Computing, Tianjin University, Tianjin, China. His supervisor was Prof. Qinghua Hu (胡清华). He also work closely with Prof. Pengfei Zhu (朱鹏飞) and Assoc. Prof. Bing Cao (曹兵) in Tianjin University. His current research interests include **multimodal learning and UAV（Unmanned Aerial Vehicles）vision**.
+Yiming Sun (孙一铭) received his B.S. degree from Hefei University of Technology, Hefei, China, in 2017, and received his M.S. degree from Tianjin University, Tianjin, China, in 2020. He is currently working towards the Ph.D. degree in the College of Intelligence and Computing, Tianjin University, Tianjin, China. His supervisor was Prof. Qinghua Hu (胡清华). He works closely with Prof. Pengfei Zhu (朱鹏飞) and Assoc. Prof. Bing Cao (曹兵) in Tianjin University. His current research interests include **Multimodal Learning and UAV（Unmanned Aerial Vehicles）Vision**.
 
 ## Research Interests
 
-- **multimodal image fusion**
-- **multimodal object detection**
-- **UAV (Unmanned Aerial Vehicles) vision**
+- **Multimodal Image Fusion**
+- **Multimodal Object Detection**
+- **UAV (Unmanned Aerial Vehicles) Vision**
 
 ## News
 
