@@ -14,6 +14,7 @@ Yiming Sun (孙一铭) received his B.S. degree from Hefei University of Technol
 
 ## News
 
+- **[Jul. 2023]** Our paper about dynamic brightness adaptation robust image fusion is accepted to **IJCAI 2024**. 
 - **[Jul. 2023]** Our paper about dynamic multimodal image fusion is accepted to **ICCV 2023**. 
 - **[Aug. 2022]** Our paper about intelligent retail container is accepted to IEEE T-IM. **[ JCR Q1 ]**
 - **[Jun. 2022]** Our paper about detection-driven multimodal image fusion is accepted to **ACM Multimedia (MM) 2022**.
