@@ -1,5 +1,16 @@
 main:
 
+  - title: "Dynamic Brightness Adaptation for Robust Multi-modal Image Fusion"
+    authors: <strong>Yiming Sun</strong>, Bing Cao, Pengfei Zhu, Qinghua Hu
+    conference_short: IJCAI
+    conference: The 33rd International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2024.
+    pdf: https://ijcai24.org/main-track-accepted-papers/
+    code: https://github.com/SunYM2020/BA-Fusion
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/BAFusion.png
+
   - title: "DetFusion: A Detection-driven Infrared and Visible Image Fusion Network"
     authors: <strong>Yiming Sun</strong>, Bing Cao, Pengfei Zhu, Qinghua Hu
     conference_short: ACM MM
