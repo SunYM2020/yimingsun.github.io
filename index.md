@@ -13,7 +13,7 @@ Yiming Sun (孙一铭) received his Ph.D. degree from Tianjin University, Tianji
 - **UAV (Unmanned Aerial Vehicles) Vision**
 
 ## News
-- **[Jun. 2024]** I got my Ph.D. degree in Computer Science and Technology from the College of Intelligence and Computing, Tianjin University, Tianjin, China.
+- **[Jun. 2024]** I got my Ph.D. degree in Computer Science and Technology from the College of Intelligence and Computing, Tianjin University.
 - **[Apr. 2024]** Our paper about dynamic brightness adaptation robust image fusion is accepted to **IJCAI 2024**. 
 - **[Jul. 2023]** Our paper about dynamic multimodal image fusion is accepted to **ICCV 2023**. 
 - **[Aug. 2022]** Our paper about intelligent retail container is accepted to IEEE T-IM. **[ JCR Q1 ]**
