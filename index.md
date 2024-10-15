@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Yiming Sun (孙一铭) has joined the Zhishan Postdoctoral Program （至善博士后）at Southeast University as an Assistant Professor. He received his Ph.D. degree from Tianjin University, Tianjin, China, in 2024, received his M.S. degree from Tianjin University, Tianjin, China, in 2020, and received his B.S. degree from Hefei University of Technology, Hefei, China, in 2017. His supervisor was Prof. Qinghua Hu (胡清华). He works closely with Prof. Pengfei Zhu (朱鹏飞) and Assoc. Prof. Bing Cao (曹兵) at Tianjin University. His current research interests include **Multimodal Learning and UAV（Unmanned Aerial Vehicles）Vision**.
+Yiming Sun (孙一铭) has joined the Zhishan Postdoctoral Program（至善博士后）at Southeast University as an Assistant Professor. He received his Ph.D. degree from Tianjin University, Tianjin, China, in 2024, received his M.S. degree from Tianjin University, Tianjin, China, in 2020, and received his B.S. degree from Hefei University of Technology, Hefei, China, in 2017. His supervisor was Prof. Qinghua Hu (胡清华). He works closely with Prof. Pengfei Zhu (朱鹏飞) and Assoc. Prof. Bing Cao (曹兵) at Tianjin University. His current research interests include **Multimodal Learning and UAV（Unmanned Aerial Vehicles）Vision**.
 
 ## Research Interests
 
