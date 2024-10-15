@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Yiming Sun (孙一铭) has joined the Zhishan Postdoctoral Program（至善博士后）at Southeast University as an Assistant Professor. He received his Ph.D. degree from Tianjin University, Tianjin, China, in 2024, received his M.S. degree from Tianjin University, Tianjin, China, in 2020, and received his B.S. degree from Hefei University of Technology, Hefei, China, in 2017. His supervisor was Prof. Qinghua Hu (胡清华). He works closely with Prof. Pengfei Zhu (朱鹏飞) and Assoc. Prof. Bing Cao (曹兵) at Tianjin University. His current research interests include **Multimodal Learning and UAV（Unmanned Aerial Vehicles）Vision**.
+Yiming Sun (孙一铭) has joined the Zhishan Postdoctoral Program（至善博士后）at Southeast University as an Assistant Professor(助理研究员). I received my Ph.D. and M.S. degrees from Tianjin University, Tianjin, China, in 2024 and 2020. I received my B.S. degree from Hefei University of Technology, Hefei, China, in 2017. My supervisors were Prof. Qinghua Hu (胡清华) and Prof. Pengfei Zhu (朱鹏飞). I work closely with Assoc. Prof. Bing Cao (曹兵) at Tianjin University. My research interests include **Multimodal Learning and UAV（Unmanned Aerial Vehicles）Vision**.
 
 ## Research Interests
 
@@ -13,7 +13,7 @@ Yiming Sun (孙一铭) has joined the Zhishan Postdoctoral Program（至善博�
 - **UAV (Unmanned Aerial Vehicles) Vision**
 
 ## News
-- **[Aug. 2024]** I joined the School of Automation at Southeast University as a Postdoctoral Associate (至善博士后) under the supervision of Prof. Qinghua Hu and Prof. Pengfei Zhu.
+- **[Aug. 2024]** I joined the School of Automation at Southeast University as a Postdoctoral Associate (至善博士后) supervised by Prof. Qinghua Hu and Prof. Pengfei Zhu.
 - **[Jun. 2024]** I got my Ph.D. degree in Computer Science and Technology from the College of Intelligence and Computing, Tianjin University.
 - **[Apr. 2024]** Our paper about dynamic brightness adaptation robust image fusion is accepted to **IJCAI 2024**. 
 - **[Jul. 2023]** Our paper about dynamic multimodal image fusion is accepted to **ICCV 2023**. 
