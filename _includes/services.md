@@ -17,4 +17,5 @@
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979"><autocolor>IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing"><autocolor>ISPRS Journal of Photogrammetry and Remote Sensing</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859"><autocolor>IEEE Geoscience and Remote Sensing Letters</autocolor></a></li>
+   <li><a href="https://ietresearch.onlinelibrary.wiley.com/journal/24682322"><autocolor>CAAI Transactions on Intelligence Technology</autocolor></a></li>
 </ul>
