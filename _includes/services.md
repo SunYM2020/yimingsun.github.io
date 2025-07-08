@@ -3,6 +3,9 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://neurips.cc/Conferences/2025/"><autocolor>The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS) 2025</autocolor></a> </li>
+  <li><a href="https://iccv.thecvf.com/Conferences/2025"><autocolor>International Conference on Computer Vision (ICCV) 2025</autocolor></a> </li>
+  <li><a href="https://2025.ijcai.org/"><autocolor>The 34rd International Joint Conference on Artificial Intelligence (IJCAI) 2025</autocolor></a> </li>
   <li><a href="https://2024.acmmm.org/"><autocolor>The 32st ACM International Conference on Multimedia (ACM MM) 2024</autocolor></a> </li>
   <li><a href="https://ijcai24.org/"><autocolor>The 33rd International Joint Conference on Artificial Intelligence (IJCAI) 2024</autocolor></a> </li>
   <li><a href="https://www.acmmm2023.org/"><autocolor>The 31st ACM International Conference on Multimedia (ACM MM) 2023</autocolor></a> </li>
