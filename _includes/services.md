@@ -1,6 +1,6 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewers/Program Committee Member</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://neurips.cc/Conferences/2025/"><autocolor>The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS) 2025</autocolor></a> </li>
