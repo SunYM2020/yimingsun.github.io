@@ -1,5 +1,27 @@
 main:
 
+  - title: "Task-Gated Multi-Expert Collaboration Network for Degraded Multi-Modal Image Fusion"
+    authors: <strong>Yiming Sun</strong>, Xin Li, Pengfei Zhu, Qinghua Hu, Dongwei Ren, Huiying Xu, Xinzhong Zhu
+    conference_short: ICML
+    conference: Forty-Second International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    pdf: https://openreview.net/pdf?id=OcFsPBXREI
+    code: https://github.com/LeeX54946/TG-ECNet
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/TG-ECNet.png
+
+  - title: "TEDFuse: Task-Driven Equivariant Consistency Decomposition Network for Multi-Modal Image Fusion"
+    authors: <strong>Yiming Sun</strong>, Xinyu Cui, Zhen Wang, Hao Cheng, Yongfeng Dong, Pengfei Zhu, Kai Li
+    conference_short: IEEE-Trans
+    conference: IEEE Transactions on Multimedia <strong>(IEEE-T-MM)</strong>, 2025.
+    pdf: https://github.com/Claire-cxy/TEDFuse
+    code: https://github.com/Claire-cxy/TEDFuse
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/TEDFuse.png
+
   - title: "Dynamic Brightness Adaptation for Robust Multi-modal Image Fusion"
     authors: <strong>Yiming Sun</strong>, Bing Cao, Pengfei Zhu, Qinghua Hu
     conference_short: IJCAI
