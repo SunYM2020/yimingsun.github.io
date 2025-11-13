@@ -18,6 +18,7 @@ Yiming Sun (孙一铭) has joined the Zhishan Postdoctoral Program (至善博士
 ### 低空智能实验室正在寻找自驱力较强的学生（硕士2026年秋季，博士2026秋季），与朱鹏飞教授共同指导，目标是在低空无人机智能感知与具身智能等课题上做出有影响力的工作。请随时通过电子邮件与我联系。
 
 ## News
+- **[Nov. 2025]** Our paper about prompt-guided controllable image fusion is accepted to **AAAI 2026**
 - **[Jun. 2025]** Our paper about task-driven image fusion is accepted to IEEE T-MM. **[ JCR Q1 ]**
 - **[Jun. 2025]** One co-author paper about multi-modal object detection is accepted to **ICCV 2025**
 - **[May. 2025]** Our paper about degraded multi-modal image fusion is accepted to **ICML 2025**
@@ -37,16 +38,18 @@ Yiming Sun (孙一铭) has joined the Zhishan Postdoctoral Program (至善博士
 
 - [1] **Sun Yiming**, Cao Bing, Zhu Pengfei, Hu Qinghua. Drone-based RGB-infrared cross-modality vehicle detection via uncertainty-aware learning. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(10): 6700-6713. **(JCR Q1; ESI高被引论文)**
 - [2] **Sun Yiming**, Li Xin, Zhu Pengfei, Hu Qinghua, Ren Dongwei, Xu Huiying, Zhu Xinzhong. Task-Gated Multi-Expert Collaboration Network for Degraded Multi-Modal Image Fusion. Proceedings of the 42 nd International Conference on Machine Learning, Vancouver, Canada. PMLR 267, 2025. **(CCF-A)**
-- [3] **Sun Yiming**, Cao Bing, Zhu Pengfei, Hu Qinghua. Detfusion: A detection-driven infrared and visible image fusion network. Proceedings of the 30th ACM international conference on multimedia (ACM MM). 2022: 4003-4011. **(CCF-A)**
-- [4] **Sun Yiming**, Cao Bing, Zhu Pengfei, Hu Qinghua. Dynamic brightness adaptation for robust multi-modal image fusion. Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI). 2024: 1317-1325. **(CCF-A)**
-- [5] **Sun Yiming**, Cui Xinyu, Wang Zhen, Cheng Hao, Dong Yongfeng, Zhu Pengfei, Li Kai. TEDFuse: Task-Driven Equivariant Consistency Decomposition Network for Multi-Modal Image Fusion. IEEE Transactions on Multimedia, 2025. **(JCR Q1)**
-- [6] Cao Bing, **Sun Yiming (共同第一作者)**, Zhu Pengfei, Hu Qinghua. Multi-modal gated mixture of local-to-global experts for dynamic image fusion. Proceedings of the IEEE/CVF international conference on computer vision (ICCV). 2023: 23555-23564. **(CCF-A)**
-- [7] Zhu Pengfei, **Sun Yiming**, Cao Bing, Liu Xiaoyu, Liu Xin, Hu Qinghua. Self-supervised fully automatic learning machine for intelligent retail container. IEEE Transactions on Instrumentation and Measurement, 2022, 71: 1-15. **(JCR Q1)**
-- [8] Yi Li, Huiying Xu, **Yiming Sun**, Pengfei Zhu, Lingling Xu, Xinzhong Zhu. KSCNet: Exploring KAN and State Space Model Collaboration Network for Small Object Detection from UAV Imagery. Expert Systems with Applications, 2025: 130240. **(JCR Q1)**
-- [9] Zhao Tianyi, Liu Boyang, Gao Yanglei, **Sun Yiming**, Yuan Maoxun, Wei Xingxing. Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning. Proceedings of the IEEE/CVF international conference on computer vision (ICCV). 2025. **(CCF-A)**
-- [10] Zhang Zekai, Chen Qinghui, Xiong Maomao, Ding Shijiao, Su Zhanzhi, Yao Xinjie, **Sun Yiming**, Bai Cong, Zhang Jinglin. Zero-Shot learning in industrial scenarios: New Large-Scale Benchmark, Challenges and Baseline. Proceedings of the AAAI Conference on Artificial Intelligence. 2025: 1-9. **(CCF-A)**
-- [11] Zhu Pengfei, Zheng Jiayu, Du Dawei, Wen Longyin, **Sun Yiming**, Hu Qinghua. Multi-drone-based single object tracking with agent sharing network. IEEE Transactions on Circuits and Systems for Video Technology, 2021, 31(10): 4058-4070. **(JCR Q1)**
-- [12] Yaolin Lei, Kai Jin, Zifeng Qiu, **Yiming Sun**, Huihui Bai, Wenzhi He. MPA-Det: multi-path aggregation-based object detection framework for aerial visual computing. The Visual Computer, 2025: 1-14. **(JCR Q2)**
+- [3] **Sun Yiming**, Ruan Yuan, Hu Qinghua, Zhu Pengfei. CtrlFuse: Mask-Prompt Guided Controllable Infrared and Visible Image Fusion. Proceedings of the Fortieth AAAI Conference on Artificial Intelligence, 2026. **(CCF-A)**
+- [4] **Sun Yiming**, Cao Bing, Zhu Pengfei, Hu Qinghua. Detfusion: A detection-driven infrared and visible image fusion network. Proceedings of the 30th ACM international conference on multimedia (ACM MM). 2022: 4003-4011. **(CCF-A)**
+- [5] **Sun Yiming**, Cao Bing, Zhu Pengfei, Hu Qinghua. Dynamic brightness adaptation for robust multi-modal image fusion. Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI). 2024: 1317-1325. **(CCF-A)**
+- [6] **Sun Yiming**, Cui Xinyu, Wang Zhen, Cheng Hao, Dong Yongfeng, Zhu Pengfei, Li Kai. TEDFuse: Task-Driven Equivariant Consistency Decomposition Network for Multi-Modal Image Fusion. IEEE Transactions on Multimedia, 2025. **(JCR Q1)**
+- [7] Cao Bing, **Sun Yiming (共同第一作者)**, Zhu Pengfei, Hu Qinghua. Multi-modal gated mixture of local-to-global experts for dynamic image fusion. Proceedings of the IEEE/CVF international conference on computer vision (ICCV). 2023: 23555-23564. **(CCF-A)**
+- [8] Zhu Pengfei, **Sun Yiming**, Cao Bing, Liu Xiaoyu, Liu Xin, Hu Qinghua. Self-supervised fully automatic learning machine for intelligent retail container. IEEE Transactions on Instrumentation and Measurement, 2022, 71: 1-15. **(JCR Q1)**
+- [9] Yi Li, Huiying Xu, **Yiming Sun**, Pengfei Zhu, Lingling Xu, Xinzhong Zhu. KSCNet: Exploring KAN and State Space Model Collaboration Network for Small Object Detection from UAV Imagery. Expert Systems with Applications, 2025: 130240. **(JCR Q1)**
+- [10] Zhao Tianyi, Liu Boyang, Gao Yanglei, **Sun Yiming**, Yuan Maoxun, Wei Xingxing. Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning. Proceedings of the IEEE/CVF international conference on computer vision (ICCV). 2025. **(CCF-A)**
+- [11] Zhang Zekai, Chen Qinghui, Xiong Maomao, Ding Shijiao, Su Zhanzhi, Yao Xinjie, **Sun Yiming**, Bai Cong, Zhang Jinglin. Zero-Shot learning in industrial scenarios: New Large-Scale Benchmark, Challenges and Baseline. Proceedings of the AAAI Conference on Artificial Intelligence. 2025: 1-9. **(CCF-A)**
+- [12] Zhu Pengfei, Zheng Jiayu, Du Dawei, Wen Longyin, **Sun Yiming**, Hu Qinghua. Multi-drone-based single object tracking with agent sharing network. IEEE Transactions on Circuits and Systems for Video Technology, 2021, 31(10): 4058-4070. **(JCR Q1)**
+- [13] Chongqing Huang, Huiying Xu, **Yiming Sun**, Hongbo Li, Yang Liu, Yi Li, Xinzhong Zhu. FCADet: Dynamic context-aware fusion with attention-guided suppression for traffic detection under extreme weather. Digital Signal Processing, 2026: 1051-2004. **(JCR Q2)**
+- [14] Yaolin Lei, Kai Jin, Zifeng Qiu, **Yiming Sun**, Huihui Bai, Wenzhi He. MPA-Det: multi-path aggregation-based object detection framework for aerial visual computing. The Visual Computer, 2025: 1-14. **(JCR Q2)**
 
 {% include_relative _includes/services.md %}
 
